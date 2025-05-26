@@ -11,6 +11,9 @@ import type { User } from './user';
   template: `<header>
   <div class="storybook-header">
     <div>
+      <h1 class="text-3xl font-bold underline bg-amber-500">
+        Hello world!
+      </h1>
       <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
         <g fill="none" fillRule="evenodd">
           <path
